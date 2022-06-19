@@ -26,7 +26,7 @@ As tecnologias usadas no projeto foram:
 ## TELA DA APLICAÇÃO
 
 
-![inicio](https://github.com/santiagolipe/Tela-de-Login/blob/main/src/login.png)
+![inicio](https://github.com/santiagolipe/Tela-de-Login/blob/main/src/tela.JPG)
 
 
 ## Links
